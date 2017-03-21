@@ -4,7 +4,7 @@
   "description": "Template to start learning sass",
   "main": "gulpfile.js",
   "scripts": {
-    "test": "gulp"
+    "watch": "./node_modules/.bin/gulp"
   },
   "repository": {
     "type": "git",

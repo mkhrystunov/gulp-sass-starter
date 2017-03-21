@@ -2,7 +2,7 @@
 `npm install`
 
 #### Starting developing
-`gulp`
+`npm run watch`
 
 #### Usage
 Add your scss files to `./src/sass` directory.
